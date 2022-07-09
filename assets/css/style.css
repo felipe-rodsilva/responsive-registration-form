@@ -204,3 +204,19 @@ body{
     }
 }
 
+@media screen and (min-width: 320px) and (max-width: 480px){
+    .input-group{
+        padding: 0 2rem;
+    }
+    .gender-inputs{
+        padding: 0 2rem;
+        margin-top: 2rem;
+    }
+    .form-header{
+        justify-content: space-evenly;
+    }
+    .continue-button {
+        padding: 0 2rem;
+    }
+}
+
