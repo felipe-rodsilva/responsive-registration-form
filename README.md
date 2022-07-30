@@ -6,7 +6,7 @@
 
 Essa Página de Cadastro foi desenvolvida com a finalidade de praticar os seguintes tópicos:
 - Criação de Formulários HTML usando vários tipos de input;
-- Posicionamento CSS Flexbox;
+- Posicionamento com CSS Flexbox;
 - Responsividade com CSS Media Queries;
 
 ## Layout Final
